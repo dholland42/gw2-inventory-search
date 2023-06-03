@@ -1,2 +1,2 @@
 # gw2-inventory-search
-Seach across all inventories suing the Guild Wars 2 API
+Seach across all inventories using the Guild Wars 2 API
